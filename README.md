@@ -45,7 +45,7 @@ This repository contains backend code for quiz application
    ```bash
    git clone <repository-url>
    cd quiz-app-backend
-    ## Environment Variables
+    
 
 To run this project, you will need to add the following environment variables to your `.env` file:
 
