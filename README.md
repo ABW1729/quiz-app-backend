@@ -54,10 +54,11 @@ To run this project, you will need to add the following environment variables to
 
 ### Generating a Random JWT Secret
 
-To generate a random JWT secret, you can use the following command in your terminal:
+ To generate a random JWT secret, you can use the following command in your terminal:
 
 ```bash
 openssl rand -hex 32
+```
 
 ## Deployment
 
